@@ -6,3 +6,5 @@ Alter the ranges to fit your needs.
 Comment out name if anonymous submission.
 
 Not recommended to save as macro. Deploy as necessary by copy and paste onto your excel file. Press alt+11 to enter VB dev mode. Insert new module and paste this in.
+
+Developed with the help of ChatGPT.
